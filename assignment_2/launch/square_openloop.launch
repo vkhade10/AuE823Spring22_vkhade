@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+    <node pkg="assignment_2" type="square_openloop.py" name="squareo"/>
+
+</launch>
